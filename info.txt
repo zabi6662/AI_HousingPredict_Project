@@ -1,0 +1,2 @@
+cd "/Users/muhammadwahab/Documents/Zohaib Folder/Zohaib Uni Work/Fourth Semester/Machine Learning/project"
+python3 -m streamlit run app.py
